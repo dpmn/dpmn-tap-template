@@ -12,7 +12,7 @@ $ pip install cookiecutter
 
 The next command will ask for some input.  Enter the name of your tap:
 ```bash
-$ cookiecutter https://github.com/singer-io/singer-tap-template.git
+$ cookiecutter https://github.com/dpmn/dpmn-tap-template.git
 project_name [e.g. 'tap-facebook']: tap-foobar
 ```
 
